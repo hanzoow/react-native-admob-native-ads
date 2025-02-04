@@ -68,8 +68,7 @@
     "expo": "^47.0.12",
     "expo-module-scripts": "^3.0.7",
     "prettier": "^2.3.2",
-    "typescript": "^5.0.2",
-    "react-native-vector-icons": "^9.2.0"
+    "typescript": "^5.0.2"
   },
   "scripts": {
     "build:plugin": "tsc --build plugin",
